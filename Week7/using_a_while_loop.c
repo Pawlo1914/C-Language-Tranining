@@ -1,5 +1,5 @@
 /*
-This program prints the numbers from 0 to 100 using while loop 
+This program prints the numbers from 0 to 10 using while loop 
 */
 
 #include <stdio.h>

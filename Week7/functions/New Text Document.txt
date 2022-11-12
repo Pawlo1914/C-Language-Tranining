@@ -1,0 +1,30 @@
+/*
+function creation
+*/
+
+#include <stdio.h>
+#include <math.h>
+
+//add two int numbers 
+int add(int a, int b)
+{
+	return a + b;
+}
+
+int multiply(int a, int b)
+{
+	return a * b;
+}
+void greeting()
+{
+	printf("Hello");
+}
+
+int main(void)
+{
+	printf("%lf\n", sqrt(100));
+	printf("%d\n", add(4, 5));
+	printf("%d\n", multiply(4, 5));
+	greeting();
+	return 0;
+}
